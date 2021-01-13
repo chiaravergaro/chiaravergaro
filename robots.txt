@@ -1,0 +1,8 @@
+Sitemap: http://chiaravergaro.github.io/sitemap.xml
+
+# Custom rules
+User-agent: *
+Disallow: /proposte
+Disallow: /proposte/
+Disallow: /proposte/*
+Disallow: /privacy
